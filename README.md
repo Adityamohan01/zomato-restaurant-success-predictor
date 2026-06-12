@@ -23,7 +23,7 @@ A few other things that stood out:
 
 I built a 5-chart Tableau dashboard that lets you explore all of this visually — status breakdown by city, cuisine rankings, the rating vs success bubble chart, and delivery speed analysis.
 
-[View the live dashboard here]([PASTE YOUR TABLEAU URL HERE](https://public.tableau.com/views/ZomatoSwiggyRestaurantSuccessPredictor/ZomatoSuccessDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the live dashboard here](https://public.tableau.com/views/ZomatoSwiggyRestaurantSuccessPredictor/ZomatoSuccessDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
